@@ -34,3 +34,6 @@ The FAQ section is integrated with **Google's Gemini AI API**, enabling the site
 
 This project is a learning site only. No real betting or account creation is supported. AI integration is for experimental academic purposes.
 
+## Noti
+- The AI responds will longer work due to expire API key.
+
